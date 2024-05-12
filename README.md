@@ -54,18 +54,22 @@ contoh token:
 
 ## Send notification menggunakan firebase
 1. buat campaign baru
+
 ![alt text](<Screenshot 2024-05-12 142030.png>)
 
 ![alt text](<Screenshot 2024-05-12 142036.png>)
 
 2. compose notification
+
 ![alt text](<Screenshot 2024-05-12 142113.png>)
 
 3. send test message dan masukkan fcmtoken yang telah didapat
+
 ![alt text](<Screenshot 2024-05-12 142127.png>)
 
 4. send
 5. contoh notiication yang masuk
+
 ![alt text](<Screenshot 2024-05-12 142314.png>)
 
 ## tambahkan method pada firebaseApi untuk menghandle notifikasi
